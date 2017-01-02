@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Smart Alarm</string>
+    <string name="calendrierBtn">Récuperer le calendrier via le fichier</string>
+    <string name="calendrierBtn2">Récuperer le calendrier via l\'url</string>
+    <string name="info">Cette application à été créer par Kamal ALLALI et Jérémie GNANA dans le cadre d\'un projet Android pour l\'ESIEA.</string>
+    <string name="site">"Aller sur le site de l\'ESIEA"</string>
+    <string name="mreveil">Réveil</string>
+    <string name="mparam">Paramètre</string>
+    <string name="mcal">Calendrier</string>
+    <string name="msort">Sortie</string>
+    <string name="messSortie">Voulez-vous vraiment quitter l\'application ?</string>
+    <string name="mark">Cette application mérite une bonne note !</string>
+    <string name="connexion">Erreur connexion</string>
+    <string name="internetMess">Il semble que vous n\'êtes pas connecté à internet !</string>
+    <string name="nomC">Nom</string>
+    <string name="nomCSum">Votre nom</string>
+    <string name="nomCDial">Saisir votre</string>
+    <string name="bonjour">Bonjour</string>
+    <string name="cutAlarm">Arreter alarme</string>
+</resources>

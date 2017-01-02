@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Alarm</string>
+    <string name="calendrierBtn">Retrieve the calendar via a file</string>
+    <string name="calendrierBtn2">Retrieve the calendar via an URL</string>
+    <string name="info">This Android app has been created by Kamal ALLALI and Jérénie GNANA in the context of a project for the ESIEA.</string>
+    <string name="mcal">Calendar</string>
+    <string name="messSortie">Do you really want to exit this app?</string>
+    <string name="mparam">Parameter</string>
+    <string name="mreveil">Alarm Clock</string>
+    <string name="msort">Exit</string>
+    <string name="site">Go to ESIEA website</string>
+    <string name="mark">This app deserves a good mark!</string>
+    <string name="connexion">Connexion error</string>
+    <string name="internetMess">It seems that you aren\'t connected to internet!</string>
+    <string name="nomC">Name</string>
+    <string name="nomCDial">Enter your name</string>
+    <string name="nomCSum">Your name</string>
+    <string name="bonjour">Hello</string>
+    <string name="cutAlarm">Shut down alarm</string>
+</resources>
